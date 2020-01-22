@@ -7,7 +7,7 @@ header {
     height: 600px;
     margin: 0 auto;
     border: 1px solid black;
-    background-image: url(/01-JoesBB/images/canva-photo-editor.png);
+    background-image: url(/images/canva-photo-editor.png);
 }
 header h2 {
     color: green;
