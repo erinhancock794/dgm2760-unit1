@@ -1,0 +1,18 @@
+body h1, h2, h3, h4, h5, h6 ul, li{
+    margin: 0;
+}
+
+header {
+    max-width: 960px;
+    height: 600px;
+    margin: 0 auto;
+    border: 1px solid black;
+    background-image: url(/01-JoesBB/images/canva-photo-editor.png);
+}
+header h2 {
+    color: green;
+}
+
+h1 {
+    /*border: 1px solid black;*/
+}
